@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Boom"
+date:   2023-08-17 21:30:26 -0500
+categories: misc
+---
+
+Eight years ago, I told myself, I would start a blog. Well, today's the day.
+
+Here are some insights from self-reflection during that time:
+* Choosing the right people matters more than picking the most experienced. Team synergy is key.
+* Embrace change, and design systems with adaptability as a core principle.
+* Be nice, but have a backbone.
+* Opinions differentiate the experienced from inexperienced.
+* People remember how you make them feel.
+* Iterate quickly. Find and listen to feedback. Don't wait until it's "done" to reveal your work.
+* Value humor and storytelling.
+* Be present.
+* Throw in novelty.
